@@ -1,0 +1,14 @@
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.exe
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.deps.json
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.runtimeconfig.json
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.dll
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\bin\Debug\net8.0\EncryptDecrypt.pdb
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.AssemblyInfoInputs.cache
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.AssemblyInfo.cs
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.dll
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\refint\EncryptDecrypt.dll
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.pdb
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\EncryptDecrypt.genruntimeconfig.cache
+C:\Users\evree\source\repos\PersonalProjects\EncryptDecrypt\obj\Debug\net8.0\ref\EncryptDecrypt.dll
